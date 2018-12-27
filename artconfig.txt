@@ -1,2 +1,0 @@
-AddSimpleModel(0, 18865, -1000, "wallzzz.dff", "wallzzz.txd");
-AddCharModel(44, 20003, "zero.dff", "zero.txd");
